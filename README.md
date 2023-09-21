@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoodJobJackie
 - 👀 I’m interested in coding for fun!
-- 🌱 I’m currently learning Visual Basic for Applications.
+- 🌱 I’m currently learning GDScript & C#.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me; you can email me at goodjobjacqueline@gmail.com
 
